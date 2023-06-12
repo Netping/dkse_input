@@ -9,7 +9,7 @@
 
 #include "config_pj.h"
 #include "includes_base.h"
-#include "../main/input/input.h"
+#include "../dkse_input/input.h"
 #include "esp_flash.h"
 #include "esp_flash_spi_init.h"
 #include "LOGS.h"
